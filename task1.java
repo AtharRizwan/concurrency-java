@@ -30,7 +30,7 @@ class SquareRunnable implements Runnable {
     }
 }
 
-public class MultithreadingExample {
+public class task1 {
     public static void main(String[] args) {
         // Create the two threads
         Thread numberThread = new Thread(new NumberRunnable());
